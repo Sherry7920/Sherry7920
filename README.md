@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Sherry
 
-<!--
-**Sherry7920/Sherry7920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Developer / IT Student  
+🌱 Currently learning Unity, C#, AI for Games  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am an IT student passionate about game development.
+
+---
+## 🛠 Skills
+- Unity
+- C#
+- GitHub
+- Game AI
+- UI/UX
+
+---
+
+## 📫 Contact
+- Email: sherrybintihasan@gmail.com
